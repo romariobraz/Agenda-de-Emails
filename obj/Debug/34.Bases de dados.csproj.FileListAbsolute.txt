@@ -1,0 +1,11 @@
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\34.Bases de dados\bin\Debug\34.Bases de dados.exe.config
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\34.Bases de dados\bin\Debug\34.Bases de dados.exe
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\34.Bases de dados\bin\Debug\34.Bases de dados.pdb
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\34.Bases de dados\obj\Debug\34.Bases de dados.csproj.AssemblyReference.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\34.Bases de dados\obj\Debug\_34.Bases_de_dados.Agenda.resources
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\34.Bases de dados\obj\Debug\_34.Bases_de_dados.Properties.Resources.resources
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\34.Bases de dados\obj\Debug\34.Bases de dados.csproj.GenerateResource.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\34.Bases de dados\obj\Debug\34.Bases de dados.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\34.Bases de dados\obj\Debug\34.Bases de dados.exe
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\34.Bases de dados\obj\Debug\34.Bases de dados.pdb
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\34.Bases de dados\obj\Debug\34.Bases de dados.exe.config
