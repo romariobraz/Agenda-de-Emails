@@ -9,7 +9,7 @@ namespace Agenda
         {
             ApplicationConfiguration.Initialize();            
 
-            string conexao = "server=localhost;username=postgres;password=9363plM!;database=contatos";
+            string conexao = "server=localhost;username=postgres;password=*****;database=contatos";
 
             IDatabaseService dbService = new PostgresDatabaseService(conexao);
 
