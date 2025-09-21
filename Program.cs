@@ -1,23 +1,21 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using System.Windows.Forms;
-using System.Data.SqlClient;
+using Agenda.DBServices;
 
-namespace _34.Bases_de_dados
+namespace Agenda
 {
     internal static class Program
     {
-        /// <summary>
-        /// Ponto de entrada principal para o aplicativo.
-        /// </summary>
         [STAThread]
         static void Main()
         {
-            Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Agenda());
+            ApplicationConfiguration.Initialize();            
+
+            string conexao = "server=localhost;username=postgres;password=9363plM!;database=contatos";
+
+            IDatabaseService dbService = new PostgresDatabaseService(conexao);
+
+            ApplicationConfiguration.Initialize();
+
+            Application.Run(new Agenda(dbService));
         }
     }
 }
