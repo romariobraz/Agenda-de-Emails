@@ -88,7 +88,7 @@ Agenda-de-Emails/
 ---
 
 ## 📄 **Licença**
-Este projeto está licenciado sob a licença [MIT](LICENSE).  
+Este projeto está licenciado sob a licença [MIT].  
 Sinta-se à vontade para usar, modificar e distribuir conforme necessário.
 
 ---
