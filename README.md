@@ -1,6 +1,6 @@
 # 📧 Agenda de Emails
 
-Uma aplicação simples em **C#/.NET** para gerenciar contatos com nome e email.
+Uma aplicação em **C#/.NET** para gerenciar contatos com nome e email.
 
 A finalidade deste projeto em sí não é a sua usabilidade, mas sim podemos testar ele com Xunit, e desenvolver ou aprimorar habilidades com testes unitários.
 
